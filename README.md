@@ -1,2 +1,2 @@
 # REDalign
-RNA Secondary Structure Alignment
+RNA Secondary Structural Alignment
